@@ -424,6 +424,7 @@ todoApp/
   created_at: string,   // 作成時間
   updated_at: string    // 更新時間
 }
+```
 
 ### クロスタブ同期
 
