@@ -267,20 +267,20 @@ MIT License
 ### インストール手順
 
 1. **プロジェクトのクローン**
-   ```bash
-   git clone <your-repo-url>
-   cd todoApp
-   ```
+   ```bash
+   git clone <your-repo-url>
+   cd todoApp
+   ```
 
 2. **依存関係のインストール**
-   ```bash
-   npm install
-   ```
+   ```bash
+   npm install
+   ```
 
 3. **開発サーバーの起動**
-   ```bash
-   npm run dev
-   ```
+   ```bash
+   npm run dev
+   ```
 
 4. **アプリケーションへのアクセス**
    
